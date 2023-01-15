@@ -120,53 +120,53 @@ export const projectsData = [
     id: '1',
     image: Project1,
     name: 'project name 1',
-    category: 'UI/UX design',
+    category: 'UI Design',
   },
   {
     id: '2',
     image: Project2,
     name: 'project name 2',
-    category: 'web development',
+    category: 'Web App',
   },
   {
     id: '3',
     image: Project3,
     name: 'project name 3',
-    category: 'UI/UX design',
+    category: 'UI Design',
   },
   {
     id: '4',
     image: Project4,
     name: 'project name 4',
-    category: 'branding',
+    category: 'Mobile App',
   },
   {
     id: '5',
     image: Project5,
     name: 'project name 5',
-    category: 'web development',
+    category: 'Web App',
   },
   {
     id: '6',
     image: Project6,
     name: 'project name 6',
-    category: 'web development',
+    category: 'Web App',
   },
 ];
 
 // projects
 export const projectsNav = [
   {
-    name: 'all',
+    name: 'All',
   },
   {
-    name: 'UI/UX Design',
+    name: 'UI Design',
   },
   {
-    name: 'web development',
+    name: 'Web App',
   },
   {
-    name: 'branding',
+    name: 'Mobile App',
   },
 ];
 
