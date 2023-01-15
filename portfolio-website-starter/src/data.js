@@ -257,18 +257,12 @@ export const contact = [
     icon: <FiMail />,
     title: 'Have a question?',
     subtitle: 'I am here to help you.',
-    description: 'msrshohag.gp@gmail.com',
+    description: 'Email me at hello@youremail.com',
   },
   {
     icon: <FiMapPin />,
     title: 'Current Location',
-    subtitle: 'Gazipur, Bangladesh',
+    subtitle: 'Bucharest, Romania',
     description: 'Serving clients worldwide',
-  },
-  {
-    icon: <FiMapPin />,
-    title: 'Mobile Number',
-    subtitle: '01914934363, 01710673382',
-    description: 'Whats app and other app',
   },
 ];
