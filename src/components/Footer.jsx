@@ -21,7 +21,7 @@ const Footer = () => {
                         <img src={Logo} alt="" />
                     </div>
 
-                    <p>&copy; 2023 msrShohag. All rights reserved.</p>
+                    <p>&copy; 2022 Cristian Mihai. All rights reserved.</p>
                 </div>
             </div>
         </footer>
